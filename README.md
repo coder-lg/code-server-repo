@@ -1,2 +1,2 @@
 # My code server documents
-No access, please. You can't tamper with the files, no matter what.
+These files are used in my code-server. Please don't tamper with the files.
